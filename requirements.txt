@@ -1,7 +1,7 @@
 torch==2.0.1
 torchvision
 accelerate==0.18.0
-av==9.1.0
+# av==9.1.0
 decord==0.6.0
 diffusers==0.16.0
 einops>=0.6.1
@@ -20,3 +20,4 @@ omegaconf
 opencv-python
 scipy
 pyfiglet
+huggingface_hub==0.23.0
